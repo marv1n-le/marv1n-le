@@ -1,11 +1,12 @@
+
 <p align="center">
   <a href="https://github.com/marv1n-le">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&duration=1500&pause=1500&color=F72585&center=true&vCenter=true&width=800&lines=✨+Welcome+to+My+GitHub+Profile!+✨;🚀+Marvin+Le's+Coding+Journey!+🚀;🌟+Code+%7C+Learn+%7C+Create+%7C+Inspire!+🌟" alt="Marvin Le"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marvin+Le!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=4361EE&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Passionate+Backend+Developer+%F0%9F%94%A5" alt="Description">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Developer" alt="Description">
 </p>
 
 <p align="center">
