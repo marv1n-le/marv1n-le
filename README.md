@@ -85,7 +85,7 @@
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      alt="Khoahocmai's Top Languages" 
+      alt="Marvin Le's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=marv1n-le&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
       height="192px"/>
   </a>
