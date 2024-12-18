@@ -20,7 +20,6 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge">
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-FF4500.svg?logo=java&logoColor=white&style=for-the-badge">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
