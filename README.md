@@ -70,8 +70,17 @@
 ---
 
 <h2 align="center">🌟 GitHub Profile Highlights</h2>
+
+<p align="center">
+  <a href="https://github.com/marv1n-le">
+    <img 
+      alt="Marvin's Streak Stats" 
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=marv1n-le&theme=monokai-metallian&hide_border=true" 
+      height="192px"/>
+  </a>
+</p>
+
 <!-- GitHub Profile Stats Section -->
-<h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -90,7 +99,16 @@
   </a>
   
   <br/>
-  
+
+  <p align="center">
+  <a href="https://github.com/marv1n-le">
+    <img 
+      alt="Marvin Le's GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=marv1n-le&custom_title=Marvin%20Le%27s%20GitHub%20Activity%20Graph&bg_color=1F222E&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=F85D7F&area=true" 
+      height="250px"/>
+  </a>
+</p>
+
 ---
 
 <h2 align="center">📫 Let's Connect!</h2>
