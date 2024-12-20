@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marvin+Le!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
   </a>
 </p>
-update
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Developer" alt="Description">
 </p>
