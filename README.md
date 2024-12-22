@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Developer" alt="Description">
 </p>
 
+
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-0377--137--787-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-ducanhle.iter@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
