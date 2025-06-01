@@ -53,12 +53,6 @@
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>🧰 Frameworks</h3>
-<p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logoColor=white&style=for-the-badge">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge">
-</p>
-
 <h3>Other</h3>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
