@@ -44,6 +44,7 @@
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge">
+  <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white&style=for-the-badge">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge">
 </p>
 
