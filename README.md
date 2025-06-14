@@ -100,11 +100,7 @@
   <br/>
 
   <p align="center">
-  <a href="https://github.com/marv1n-le">
-    <img 
-      alt="Marvin Le's GitHub Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=marv1n-le&custom_title=Marvin%20Le%27s%20GitHub%20Activity%20Graph&bg_color=1F222E&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=F85D7F&area=true" 
-      height="250px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marv1n-le&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
   </a>
 </p>
 
